@@ -33,7 +33,7 @@ if [ $# -gt 2 ];then
 exit
 fi
 
-#Recuperer valeur $1 affecteur a varible fichier
+#Recuperer valeur $1 affecteur a la variable fichier
 fichier="$1"
 let "compteur = 0 "
 #Invite a ressaisir le chemin du fichier
